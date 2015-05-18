@@ -1,0 +1,17 @@
+E:\Mizan\16.05.15\CityInformationApp\CityInformationApp\bin\Debug\CityInformationApp.exe.config
+E:\Mizan\16.05.15\CityInformationApp\CityInformationApp\bin\Debug\CityInformationApp.exe
+E:\Mizan\16.05.15\CityInformationApp\CityInformationApp\bin\Debug\CityInformationApp.pdb
+E:\Mizan\16.05.15\CityInformationApp\CityInformationApp\obj\Debug\CityInformationApp.csprojResolveAssemblyReference.cache
+E:\Mizan\16.05.15\CityInformationApp\CityInformationApp\obj\Debug\CityInformationApp.Properties.Resources.resources
+E:\Mizan\16.05.15\CityInformationApp\CityInformationApp\obj\Debug\CityInformationApp.csproj.GenerateResource.Cache
+E:\Mizan\16.05.15\CityInformationApp\CityInformationApp\obj\Debug\CityInformationApp.exe
+E:\Mizan\16.05.15\CityInformationApp\CityInformationApp\obj\Debug\CityInformationApp.pdb
+E:\Mizan\16.05.15\CityInformationApp\CityInformationApp\obj\Debug\CityInformationApp.CityInfoUI.resources
+F:\Asp.net (BASIS)\01.Class review\16.05.15\CityInfoApp\CityInformationApp\CityInformationApp\bin\Debug\CityInformationApp.exe.config
+F:\Asp.net (BASIS)\01.Class review\16.05.15\CityInfoApp\CityInformationApp\CityInformationApp\obj\Debug\CityInformationApp.exe
+F:\Asp.net (BASIS)\01.Class review\16.05.15\CityInfoApp\CityInformationApp\CityInformationApp\obj\Debug\CityInformationApp.pdb
+F:\Asp.net (BASIS)\01.Class review\16.05.15\CityInfoApp\CityInformationApp\CityInformationApp\obj\Debug\CityInformationApp.CityInfoUI.resources
+F:\Asp.net (BASIS)\01.Class review\16.05.15\CityInfoApp\CityInformationApp\CityInformationApp\obj\Debug\CityInformationApp.Properties.Resources.resources
+F:\Asp.net (BASIS)\01.Class review\16.05.15\CityInfoApp\CityInformationApp\CityInformationApp\obj\Debug\CityInformationApp.csproj.GenerateResource.Cache
+F:\Asp.net (BASIS)\01.Class review\16.05.15\CityInfoApp\CityInformationApp\CityInformationApp\bin\Debug\CityInformationApp.exe
+F:\Asp.net (BASIS)\01.Class review\16.05.15\CityInfoApp\CityInformationApp\CityInformationApp\bin\Debug\CityInformationApp.pdb
